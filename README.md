@@ -1,5 +1,3 @@
-**README.md** 
-
 # MCP Client
 
 > 一个轻量级的 Python 框架，用于按照 **Model Context Protocol (MCP)** 调用本地或远程工具服务器，并与 LangGraph 的 ReAct Agent 深度集成。

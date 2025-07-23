@@ -90,7 +90,8 @@ MCP_Client/
 本项目基于 **GNU GPL‑3.0** 许可证发布，详见 [LICENSE](./LICENSE)。
 
 ## 📚 参考资料
-
+```
 * [MCP Specification 2025‑03‑26](https://modelcontextprotocol.io/specification/2025-03-26)
 * [Streamable HTTP Transport](https://modelcontextprotocol.io/specification/2025-03-26/basic/transports)
 * [LangGraph create\_react\_agent](https://langchain-ai.github.io/langgraph/reference/prebuilt/#langgraph.prebuilt.chat_agent_executor.create_react_agent)
+```
